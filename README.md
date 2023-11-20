@@ -8,6 +8,8 @@
 
 ### Useful links
 
+- [Get Started with llama](https://ai.meta.com/llama/get-started/)
+
 - [LLM-Fine Tuning scripts](https://github.com/rasbt/LLM-finetuning-scripts/tree/main)
 
 - [LoRA insights](https://lightning.ai/pages/community/lora-insights/)
