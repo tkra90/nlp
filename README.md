@@ -6,6 +6,8 @@
 
 - [02-llama2 + quantize + fine tune a custom summarizer](https://github.com/tkra90/this-is-nlp/blob/main/notebooks/02-llama2-custom-summary.ipynb)
 
+- [03-Chroma + RAG](https://github.com/tkra90/this-is-nlp/blob/main/notebooks/03-Chroma+RAG.ipynb)
+
 ### Useful links
 
 - [Get Started with llama](https://ai.meta.com/llama/get-started/)
@@ -13,6 +15,8 @@
 - [LLM-Fine Tuning scripts](https://github.com/rasbt/LLM-finetuning-scripts/tree/main)
 
 - [LoRA insights](https://lightning.ai/pages/community/lora-insights/)
+
+- [Sentence-Transformers](https://www.sbert.net/index.html)
 
 ### 2 min reads :eyes:
 
