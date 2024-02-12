@@ -6,7 +6,9 @@
 
 - [02-llama2 + quantize + fine tune a custom summarizer](https://github.com/tkra90/this-is-nlp/blob/main/notebooks/02-llama2-custom-summary.ipynb)
 
-- [03-Chroma + RAG](https://github.com/tkra90/this-is-nlp/blob/main/notebooks/03-Chroma+RAG.ipynb)
+- [03-ChromaDB + RAG](https://github.com/tkra90/this-is-nlp/blob/main/notebooks/03-Chroma+RAG.ipynb)
+
+- [04-ChromaDB + Improved Retrievals](https://github.com/tkra90/this-is-nlp/blob/main/notebooks/04-Chromadb%2BRAG-Improve-Retrieval.ipynb)
 
 ### Useful links
 
